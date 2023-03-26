@@ -1,3 +1,4 @@
+//Code to detect touch using touch sensor
 const int SensorPin=13, OUT = 12;
 int state;
 int last=LOW;
