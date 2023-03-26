@@ -1,3 +1,4 @@
+// Display random values in Serial Monitor
 int value = 0;
 void setup() {
   // put your setup code here, to run once:
