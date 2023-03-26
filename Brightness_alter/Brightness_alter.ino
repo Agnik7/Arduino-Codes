@@ -1,3 +1,4 @@
+//Code to alter brightness of light
 int ledpin = 11, brightness = 0, fadeAmount= 5;
 void setup() {
   // put your setup code here, to run once:
