@@ -1,6 +1,6 @@
-//Detect Object Using Ultrasonic Sensor
+// Code to detect object using ultrasonic sensor
   
-  int pinled=12;
+  int pin=12;
   const  int trigger=6;
   const  int echo=7;
   float  distance;
@@ -10,7 +10,7 @@
     Serial.begin(9600);
     pinMode(trigger,OUTPUT);
     pinMode(echo,INPUT);
-    pinMode(pinled,OUTPUT);
+    pinMode(pin,OUTPUT);
   }
   
   void loop(){
@@ -28,11 +28,11 @@
     dist_inches=distance*39.37;
  
     if(dist_inches < 6){ //if distance of object is less than 6 inches
-      digitalWrite(pinled,HIGH);
+      digitalWrite(pin,HIGH);
       Serial.println("Object Found");
     }
     else{ 
-      digitalWrite(pinled,LOW);
+      digitalWrite(pin,LOW);
       Serial.println("Object Not Found");
     }
     
