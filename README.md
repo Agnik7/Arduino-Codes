@@ -8,8 +8,9 @@
 1. [Blinking of Light at 2-second interval](https://github.com/Agnik7/Arduino-Codes/blob/main/Blink_light/Blink_light.ino)
 2. [Changing of Brightness of Light](https://github.com/Agnik7/Arduino-Codes/blob/main/Brightness_alter/Brightness_alter.ino)
 3. [Displaying Random Values in Serial Monitor](https://github.com/Agnik7/Arduino-Codes/blob/main/Serial_Monitor_Use/Serial_Monitor_Use.ino)
-4. [Detecting Touch Using Touch Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Touch_sensor/Touch_sensor.ino)
-5. [Detecting Object Using Ultrasonic Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Object_detect/Object_detect.ino)
+4. [Detecting Black Object Using Infrared Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Black_object/Black_object.ino)
+5. [Detecting Touch Using Touch Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Touch_sensor/Touch_sensor.ino)
+6. [Detecting Object Using Ultrasonic Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Object_detect/Object_detect.ino)
 
 
 ## Note: 
