@@ -14,6 +14,11 @@
 
 
 ## Note: 
-**This repository does not contain the codes for all sensors. It just contains the codes for the ones that I have learnt to use.**
+**This repository does not contain the codes for all sensors. It only contains the codes for the ones that I have learnt to use.**
+
+
+## Language Used: C++
+
+## File Extension: .ino
 
 
