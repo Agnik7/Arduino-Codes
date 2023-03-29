@@ -11,6 +11,7 @@
 4. [Detecting Black Object Using Infrared Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Black_object/Black_object.ino)
 5. [Detecting Touch Using Touch Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Touch_sensor/Touch_sensor.ino)
 6. [Detecting Object Using Ultrasonic Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Object_detect/Object_detect.ino)
+7. [Detecting Vibration Using Vibration Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Vibration_sensor/Vibration_sensor.ino)
 
 
 ## Note: 
