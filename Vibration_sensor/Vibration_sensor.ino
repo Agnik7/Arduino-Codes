@@ -19,7 +19,7 @@ void loop() {
   Serial.print("  Digital: ");
   Serial.print(Dig_out);
   if(Ana_out <= 500){
-    digitalWrite(12,HIGH);
+    digitalWrite(13,HIGH);
     Serial.println("Vibration Detected!!!!!");
     Serial.println();
     Serial.println();
@@ -27,7 +27,7 @@ void loop() {
   else
   {
     
-    digitalWrite(12,LOW);
+    digitalWrite(13,LOW);
     Serial.println("Vibration NOT Detected");
     Serial.println();
     Serial.println();
