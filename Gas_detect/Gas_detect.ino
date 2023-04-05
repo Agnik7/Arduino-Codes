@@ -19,4 +19,10 @@ void loop(){
   // put your main code here, to run repeatedly:
   ana_val = analogRead(anaPin);
   dig_val = digitalRead(digPin);
+  if(ana_val > 400){
+    Serial.println("Gas Detected");
+  }
+  else{
+    Serial.println("Gas not detected");
+  }
 }
