@@ -8,6 +8,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(Dig_pin, INPUT);
   pinMode(Ana_pin, INPUT);
+  pinMode(13, OUTPUT);
 }
 
 void loop() {
