@@ -23,4 +23,6 @@
 
 ## File Extension: .ino
 
-
+<!-- Authors -->
+## Contributors
+<a href="https://github.com/Agnik7/Arduino-Codes/contributors"><img src="https://contrib.rocks/image?repo=Agnik7/Arduino-Codes"></a>
