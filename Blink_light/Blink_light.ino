@@ -1,16 +1,17 @@
 // Code to blink light at an interval of 2 seconds
+#define LED_PIN 11
+
 void setup() {
   // put your setup code here, to run once:
-  pinMode (11,OUTPUT);
+  pinMode (LED_PIN, OUTPUT);
 
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  digitalWrite(11,HIGH);
+  digitalWrite(LED_PIN, HIGH);
   delay(2000);
-  digitalWrite(11,LOW);
+  digitalWrite(LED_PIN, LOW);
   delay(2000);
   
-
 }
