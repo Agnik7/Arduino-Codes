@@ -1,9 +1,11 @@
 // Code to detect black object using infrared sensor.
+#define inp 13
+#define out 10
 void setup()
 {
     // put your setup code here, to run once:
-    pinMode(13, OUTPUT);
-    pinMode(10, INPUT);
+    pinMode(inp, OUTPUT);
+    pinMode(out, INPUT);
     Serial.begin(9600);
 }
 
@@ -15,12 +17,12 @@ void loop()
     Serial.print(SensorValue);
     if (!SensorValue)
     {
-        digitalWrite(13, HIGH);
+        digitalWrite(inp, HIGH);
         Serial.println("Object is not black");
     }
     else
     {
-        digitalWrite(13, LOW);
+        digitalWrite(inp, LOW);
         Serial.println("Object is Black");
     }
     delay(100);
