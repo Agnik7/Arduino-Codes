@@ -1,8 +1,8 @@
 # Arduino-Codes
 
 ## Introduction
-- This repository is for Arduino Codes that are used to calibrate various sensors.
-- You can fork the code for the sensor you are planning to use, and adjust here and there to get your desired output.
+- This repository contains Arduino codes used for calibrating various sensors.
+- Feel free to fork the code for the specific sensor you plan to use and make necessary adjustments to achieve your desired output.
 
 ## Table of Contents:
 1. [Blinking of Light at 2-second interval](https://github.com/Agnik7/Arduino-Codes/blob/main/Blink_light/Blink_light.ino)
@@ -23,6 +23,7 @@
 
 ## File Extension: .ino
 
-<!-- Authors -->
-## Contributors
-<a href="https://github.com/Agnik7/Arduino-Codes/contributors"><img src="https://contrib.rocks/image?repo=Agnik7/Arduino-Codes"></a>
+## contributors
+
+| [Agnik Bakshi](https://github.com/Agnik7) | [Alik Agarwala](https://github.com/Alik-Agarwala) | [Avik Agarwala](https://github.com/AvikAgarwala) |
+|---|---|---|
