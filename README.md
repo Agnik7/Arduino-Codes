@@ -1,5 +1,5 @@
 # Arduino-Codes
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgnik7%2FArduino-Codes&label=VISITORS&labelColor=%23697689&countColor=%23ba68c8)
 ## Introduction
 - This repository contains Arduino codes used for calibrating various sensors.
 - Feel free to fork the code for the specific sensor you plan to use and make necessary adjustments to achieve your desired output.
@@ -19,3 +19,10 @@
 
 ## File Extension: .ino
 
+## Contributing
+
+Feel free to contribute to this repo!!! Have a look at the [Contribution Guidelines](https://github.com/Agnik7/Arduino-Codes/blob/main/Contributing.md) for instructions on how to land your successful PR. Every contribution matters a lot for the growth of the tech community!!
+
+Thank you for checking out this repository. If you love it, then kindly star it to increase the reach.
+
+Happy Coding!!!!
