@@ -1,5 +1,5 @@
 # Arduino-Codes
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgnik7%2FArduino-Codes&label=VISITORS&labelColor=%23697689&countColor=%23ba68c8)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgnik7%2FArduino-Codes&countColor=%23dce775)
 ## Introduction
 - This repository contains Arduino codes used for calibrating various sensors.
 - Feel free to fork the code for the specific sensor you plan to use and make necessary adjustments to achieve your desired output.
