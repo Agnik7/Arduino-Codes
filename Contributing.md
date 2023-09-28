@@ -23,9 +23,14 @@ git checkout -b your-branch-name
 
 4. Ensure that your branch is up-to-date with the `main` branch of the original repository.
 
-5. Add your Arduino code or make appropriate modifications within this branch.
+5. If you wish to make changes to the existing code, simply move to the folder and change it.
 
-6. Once you've made your additions, run the following commands in your terminal:
+6. If you wish to contribute a new code snippet, follow these steps:
+  - Create a folder in the root directory of the name of the sensor or the snippet you wish to implement. The name should be written in `snake_case`. For example, if you want to submit the code implementation for using a touch sensor, your file name can be `Touch_sensor`.
+  - Inside this folder, create a file with the same name as the folder name and with a `.ino` extension.
+  - Write your code in this `.ino` file. 
+
+7. Once you've made your additions, save your changes and run the following commands in your terminal:
 ```bash
 git add <files you wish to add>
 
