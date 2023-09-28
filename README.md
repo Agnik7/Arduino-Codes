@@ -7,6 +7,7 @@
 Explore a curated collection of Arduino code samples tailored for fine-tuning a variety of sensors and unlocking your creative potential. Whether you're a seasoned Arduino enthusiast or embarking on your journey, these code snippets provide a robust foundation for your projects. Feel free to fork and personalize the code to match your sensor requirements and achieve your project's unique objectives.
 
 ## Discover Our Code Samples:
+### Table of Contents
 
 1. [Blinking Light at 2-Second Intervals](https://github.com/Agnik7/Arduino-Codes/blob/main/Blink_light/Blink_light.ino)
 2. [Adjusting Light Brightness](https://github.com/Agnik7/Arduino-Codes/blob/main/Brightness_alter/Brightness_alter.ino)
