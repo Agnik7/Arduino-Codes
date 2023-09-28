@@ -27,11 +27,11 @@ git checkout -b your-branch-name
 
 6. Once you've made your additions, run the following commands in your terminal:
 ```bash
-$ git add <files you wish to add>
+git add <files you wish to add>
 
-$ git commit -m "Provide a brief description of your changes here"
+git commit -m "Provide a brief description of your changes here"
 
-$ git push -u origin main
+git push -u origin branch_name
 ```
 
 7. After committing your changes, you're ready to create a pull request.
