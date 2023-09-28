@@ -15,10 +15,6 @@
 8. [Detecting Gas Using a Gas Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Gas_detect/Gas_detect.ino)
 
 
-## Note: 
-**This repository does not contain the codes for all sensors. It only contains the codes for the ones that I have learnt to use.**
-
-
 ## Language Used: C++
 
 ## File Extension: .ino
