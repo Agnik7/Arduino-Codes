@@ -23,7 +23,3 @@
 
 ## File Extension: .ino
 
-## contributors
-
-| [Agnik Bakshi](https://github.com/Agnik7) | [Alik Agarwala](https://github.com/Alik-Agarwala) | [Avik Agarwala](https://github.com/AvikAgarwala) |
-|---|---|---|
