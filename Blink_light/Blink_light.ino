@@ -10,8 +10,8 @@ void setup()
 void loop()
 {
     // put your main code here, to run repeatedly:
-    digitalWrite(LED_PIN, HIGH);
+    digitalWrite(LED_PIN, HIGH);//to display in the terminal window
     delay(2000);
-    digitalWrite(LED_PIN, LOW);
-    delay(2000);
+    digitalWrite(LED_PIN, LOW);//to display in the terminal window
+    delay(2000);//to delay the process by 2000ms
 }
