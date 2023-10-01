@@ -20,6 +20,7 @@ Explore a curated collection of Arduino code samples tailored for fine-tuning a 
 6. [Efficient Object Detection Using Ultrasonic Sensors](https://github.com/Agnik7/Arduino-Codes/blob/main/Object_detect/Object_detect.ino)
 7. [Vibration Detection With Precision Vibration Sensors](https://github.com/Agnik7/Arduino-Codes/blob/main/Vibration_sensor/Vibration_sensor.ino)
 8. [Reliable Gas Detection Utilizing Advanced Gas Sensors](https://github.com/Agnik7/Arduino-Codes/blob/main/Gas_detect/Gas_detect.ino)
+9. [Websocket Communication using Arduino and esp8266](https://github.com/Agnik7/Arduino-Codes/blob/main/Websockets/Websockets.ino)
 
 ## Crafted with Excellence
 
