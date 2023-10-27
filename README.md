@@ -22,7 +22,7 @@ Explore a curated collection of Arduino code samples tailored for fine-tuning a 
 8. [Reliable Gas Detection Utilizing Advanced Gas Sensors](https://github.com/Agnik7/Arduino-Codes/blob/main/Gas_detect/Gas_detect.ino)
 9. [Websocket Communication using Arduino and esp8266](https://github.com/Agnik7/Arduino-Codes/blob/main/Websockets/Websockets.ino)
 10. [Temperature Sensor using Arduino](https://github.com/Agnik7/Arduino-Codes/blob/main/Temperature_sensor/Temperature_sensor.ino)
-11. [Fire_Sensor](https://github.com/Agnik7/Arduino-Codes/blob/main/Fire_Sensor/Fire_Sensor.ino)
+11. [Fire Sensor detection and extinguish using Arduino and Relay Module.](https://github.com/Agnik7/Arduino-Codes/blob/main/Fire_Sensor/Fire_Sensor.ino)
 
 ## Crafted with Excellence
 
