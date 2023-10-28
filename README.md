@@ -23,6 +23,7 @@ Explore a curated collection of Arduino code samples tailored for fine-tuning a 
 9. [Websocket Communication using Arduino and esp8266](https://github.com/Agnik7/Arduino-Codes/blob/main/Websockets/Websockets.ino)
 10. [Temperature Sensor using Arduino](https://github.com/Agnik7/Arduino-Codes/blob/main/Temperature_sensor/Temperature_sensor.ino)
 11. [Fire Sensor detection and extinguish using Arduino and Relay Module.](https://github.com/Agnik7/Arduino-Codes/blob/main/Fire_Sensor/Fire_Sensor.ino)
+12. [Analog_Read_Serial using Arduino](https://github.com/Agnik7/Arduino-Codes/blob/main/Analog_Read_Serial/Analog_Read_Serial.ino)
 
 ## Crafted with Excellence
 
