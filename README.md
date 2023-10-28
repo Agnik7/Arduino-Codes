@@ -2,8 +2,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgnik7%2FArduino-Codes&countColor=%23dce775)
 ![Contributors](https://img.shields.io/github/contributors/Agnik7/Arduino-Codes?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Agnik7/Arduino-Codes?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Agnik7/Arduino-Codes?style=for-the-badge)
 
 ## Welcome to Arduino Code Repository
 
